@@ -3,14 +3,14 @@
 
 
 
-![](./figs/p12.png)
-![](./figs/zhutu.png)
+![](./fig/p12.png)
+![](./fig/zhutu.png)
 ## NEWS
 
 
 ## Abstract
 
-> Each gigapixel whole slide image (WSI) contains tens of thousands of patches, many of which carry redundant information, resulting in substantial computational and storage overhead.This motivates the need for automatic \textbf{WSI Sum}marization (\textbf{WSISum}), which aims to extract a compact subset of patches that can effectively approximate the original WSI. In this paper, we propose a {WSISum} framework that integrates low-level reconstruction with clustering-based sparse sampling and high-level reconstruction with knowledge distillation from multiple WSI-level foundation model, aiming to generate WSI summarization that preserve both local and global semantic information. Experimental results show that WSISum achieves satisfactory performance in a variety of downstream tasks, including molecular subtyping, cancer subtyping, and metastasis subtyping, while significantly reducing computational cost.
+> Each gigapixel whole slide image (WSI) contains tens of thousands of patches, many of which carry redundant information, resulting in substantial computational and storage overhead.This motivates the need for automatic WSI Summarization WSISum, which aims to extract a compact subset of patches that can effectively approximate the original WSI. In this paper, we propose a WSISum framework that integrates low-level reconstruction with clustering-based sparse sampling and high-level reconstruction with knowledge distillation from multiple WSI-level foundation model, aiming to generate WSI summarization that preserve both local and global semantic information. Experimental results show that WSISum achieves satisfactory performance in a variety of downstream tasks, including molecular subtyping, cancer subtyping, and metastasis subtyping, while significantly reducing computational cost.
 
 ## NOTES
 
@@ -87,17 +87,17 @@ python ./benchmark/creat_dataset_location.py
 ## Visualization of WSISum with different benchmarks
 
   <div style="flex: 1; margin: 5px;">
-    <img src="./figs/heatmap.png" alt="Heatmap" style="width: 100%;">
+    <img src="./fig/heatmap.png" alt="Heatmap" style="width: 100%;">
   </div>
 
 ## Interpretability
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin: 5px;">
-    <img src="./figs/lizi2.png" alt="Image 1" style="width: 100%;">
+    <img src="./fig/lizi2.png" alt="Image 1" style="width: 100%;">
   </div>
   <div style="flex: 1; margin: 5px;">
-    <img src="./figs/kejieshi.png" alt="Image 2" style="width: 100%;">
+    <img src="./fig/kejieshi.png" alt="Image 2" style="width: 100%;">
   </div>
 
 </div>
