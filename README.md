@@ -1,4 +1,4 @@
-# Histomorphology-driven multi-instance learning for breast cancer WSI classification
+# WSISum: WSI summarization via low-level and high-level reconstruction
 
 
 
