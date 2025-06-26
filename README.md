@@ -84,20 +84,12 @@ python ./benchmark/creat_dataset_entropy.py
 python ./benchmark/creat_dataset_location.py
 ```
 
-## Visualization of WSISum with different benchmarks
-
-  <div style="flex: 1; margin: 5px;">
-    <img src="./fig/heatmap.png" alt="Heatmap" style="width: 100%;">
-  </div>
 
 ## Interpretability
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin: 5px;">
     <img src="./fig/lizi2.png" alt="Image 1" style="width: 100%;">
-  </div>
-  <div style="flex: 1; margin: 5px;">
-    <img src="./fig/kejieshi.png" alt="Image 2" style="width: 100%;">
   </div>
 
 </div>
