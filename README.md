@@ -3,7 +3,7 @@
 
 
 
-![](./fig/p12.png)
+![](./fig/p12.jpg)
 ## NEWS
 
 
