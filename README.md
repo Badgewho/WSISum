@@ -1,10 +1,9 @@
-# WSISum: WSI summarization via low-level and high-level reconstruction
+# WSISum: WSI summarization via dual-level semantic reconstruction
 
 
 
 
 ![](./fig/p12.png)
-![](./fig/zhutu.png)
 ## NEWS
 
 
