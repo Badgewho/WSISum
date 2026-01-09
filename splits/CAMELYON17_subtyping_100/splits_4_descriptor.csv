@@ -1,0 +1,5 @@
+,train,val,test
+negative,254,32,32
+macro,69,9,9
+micro,47,6,6
+itc,28,4,4
